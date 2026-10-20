@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="590" viewBox="0 0 680 590" fill="none">
+<defs><pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" stroke="#cbd7bc" stroke-width=".7"/></pattern><filter id="shadow" x="-50%" y="-50%" width="200%" height="220%"><feDropShadow dx="0" dy="16" stdDeviation="14" flood-color="#294b3c" flood-opacity=".13"/></filter></defs>
+<circle cx="341" cy="298" r="235" fill="#edf0df"/><circle cx="341" cy="298" r="235" fill="url(#grid)"/>
+<circle cx="341" cy="298" r="218" stroke="#aebfa5" stroke-dasharray="4 8"/>
+<path d="M78 378C-8 154 164 38 366 79c211 42 302 283 169 397" stroke="#729579" stroke-width="1.5" stroke-dasharray="7 7"/>
+<g transform="translate(448 46) rotate(12)"><circle cx="40" cy="40" r="39" fill="#f9f6eb" stroke="#244b3e"/><path d="m40 9 7 25 24 6-24 7-7 24-7-24-24-7 24-6z" fill="#244b3e"/><path d="m40 19 4 18-4 4-4-4z" fill="#e3efab"/><circle cx="40" cy="40" r="4" fill="#f26a3b"/></g>
+<g filter="url(#shadow)" transform="translate(131 120) rotate(-9 180 190)">
+<rect x="12" y="13" width="345" height="366" rx="13" fill="#c0c7ac"/>
+<rect x="5" y="5" width="345" height="366" rx="13" fill="#fbfaf5" stroke="#244b3e" stroke-width="2"/>
+<path d="M30 347h289M30 354h289M30 361h289" stroke="#d4d5c6"/>
+<rect width="340" height="345" rx="12" fill="#244b3e"/>
+<path d="M21 1v342" stroke="#52735c" stroke-width="2"/>
+<text x="44" y="43" font-family="Arial,sans-serif" font-size="11" letter-spacing="3" fill="#dce7ca">ENGLISH THROUGH HISTORY</text>
+<text x="43" y="91" font-family="Georgia,serif" font-size="39" fill="#f7f4e8">A world</text><text x="43" y="133" font-family="Georgia,serif" font-size="39" fill="#f7f4e8">of stories.</text>
+<circle cx="248" cy="197" r="40" fill="#e3efab"/>
+<path d="m57 294 87-131 89 131z" fill="#e4bd79"/><path d="m144 163 13 131h76z" fill="#be8654"/><path d="m174 294 58-88 62 88z" fill="#edce8d"/><path d="m232 206 12 88h50z" fill="#c99b62"/>
+<path d="M42 294h258" stroke="#e3efab"/><path d="M44 310h79" stroke="#a8bf96" stroke-width="3"/><text x="257" y="325" font-family="Arial,sans-serif" font-size="11" fill="#f7f4e8">VOL. 01</text>
+</g>
+<g transform="translate(357 295) rotate(10 115 102)" filter="url(#shadow)"><rect width="234" height="197" rx="12" fill="#fffdf7" stroke="#e0dfcf"/><rect x="18" y="18" width="54" height="23" rx="11.5" fill="#edf0df"/><text x="29" y="34" font-family="Arial,sans-serif" font-size="10" font-weight="bold" fill="#244b3e">WORD</text><path d="m195 22 0 19 7-5 7 5V22z" stroke="#244b3e" stroke-width="1.5"/>
+<text x="21" y="83" font-family="Georgia,serif" font-size="35" fill="#244b3e">discover</text><text x="22" y="108" font-family="Arial,sans-serif" font-size="12" fill="#748073">verb · /dɪˈskʌvər/</text><path d="M21 126h192" stroke="#e6e6db"/><text x="22" y="149" font-family="Arial,sans-serif" font-size="12" fill="#244b3e">Find something. Learn something.</text><text x="22" y="170" font-family="Arial,sans-serif" font-size="12" fill="#748073">Open a new world.</text></g>
+<g transform="translate(53 462) rotate(-8)"><rect width="186" height="47" rx="23.5" fill="#e3efab" stroke="#244b3e"/><circle cx="25" cy="23" r="11" fill="#244b3e"/><path d="m20 23 3 3 6-7" stroke="#e3efab" stroke-width="2"/><text x="45" y="28" font-family="Arial,sans-serif" font-size="12" font-weight="bold" fill="#244b3e">LEARN BY EXPLORING</text></g>
+<path d="m579 209 10 19 21 3-15 15 4 21-20-10-18 10 3-21-15-15 21-3z" fill="#ee7044"/><path d="M87 148v24m-12-12h24M552 513v24m-12-12h24" stroke="#244b3e" stroke-width="2"/>
+<path d="m605 370 12 4-8 10" stroke="#729579" stroke-width="2" stroke-linecap="round"/>
+</svg>
